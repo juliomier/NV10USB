@@ -2,7 +2,7 @@
 using System.IO.Ports;
 using System.Net.Http;
 using System.Threading.Tasks;
-using ITLlib; // Asegúrate de tener la referencia a tu DLL y clases que ya posees
+using ITLlib; 
 
 class NV10CounterExample
 {
