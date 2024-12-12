@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E0Sr8XtwuEU=",
+  "dgSpecHash": "+FFukKEQjaM=",
   "success": true,
-  "projectFilePath": "F:\\Codigo\\Billetero\\billeteroapp\\BilleteroApp.csproj",
+  "projectFilePath": "F:\\Codigo\\Billetero\\BilleteroApp\\BilleteroApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julio\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.0\\runtime.android-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
     "C:\\Users\\julio\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.android-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",

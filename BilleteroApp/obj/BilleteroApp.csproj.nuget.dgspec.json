@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Codigo\\Billetero\\billeteroapp\\BilleteroApp.csproj": {}
+    "F:\\Codigo\\Billetero\\BilleteroApp\\BilleteroApp.csproj": {}
   },
   "projects": {
-    "F:\\Codigo\\Billetero\\billeteroapp\\BilleteroApp.csproj": {
+    "F:\\Codigo\\Billetero\\BilleteroApp\\BilleteroApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Codigo\\Billetero\\billeteroapp\\BilleteroApp.csproj",
+        "projectUniqueName": "F:\\Codigo\\Billetero\\BilleteroApp\\BilleteroApp.csproj",
         "projectName": "BilleteroApp",
-        "projectPath": "F:\\Codigo\\Billetero\\billeteroapp\\BilleteroApp.csproj",
+        "projectPath": "F:\\Codigo\\Billetero\\BilleteroApp\\BilleteroApp.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "F:\\Codigo\\Billetero\\billeteroapp\\obj\\",
+        "outputPath": "F:\\Codigo\\Billetero\\BilleteroApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
